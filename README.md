@@ -1,6 +1,7 @@
 # WebKitPwn
 ### Some papers and exploit writeups about WebKit. Reading list for VR.
 
+[Apple Browser Internals](https://github.com/sploitem/WebKitPwn/blob/main/Apple%20Browser%20Internals.pdf)
 
 [A Guide to Assertion Macros in WebKit](https://github.com/sploitem/WebKitPwn/blob/main/A%20Guide%20to%20Assertion%20Macros%20in%20WebKit%20_%20WebKit.pdf)
 
@@ -26,7 +27,7 @@
 
 [Exploiting CSP in Webkit to Break Authentication & Authorization](https://github.com/sploitem/WebKitPwn/blob/main/Exploiting%20CSP%20in%20Webkit%20to%20Break%20Authentication%20%26%20Authorization.pdf)
 
-[]()
+
 
 []()
 
