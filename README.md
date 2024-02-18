@@ -1,6 +1,8 @@
 # WebKitPwn
 ### Some papers and exploit writeups about WebKit. Reading list for VR.
 
+CVE-2020-9802
+
 [Apple Browser Internals](https://github.com/sploitem/WebKitPwn/blob/main/files/Apple%20Browser%20Internals.pdf)
 
 [WebKit Architecture](https://github.com/sploitem/WebKitPwn/blob/main/files/WebKit%20Architecture.pdf)
