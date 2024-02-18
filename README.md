@@ -1,11 +1,16 @@
 # WebKitPwn
 ### Some papers and exploit writeups about WebKit. Reading list for VR.
+---
+
+## Architecture
 
 [Apple Browser Internals](https://github.com/sploitem/WebKitPwn/blob/main/files/Apple%20Browser%20Internals.pdf)
 
 [WebKit Architecture](https://github.com/sploitem/WebKitPwn/blob/main/files/WebKit%20Architecture.pdf)
 
 ---
+
+## Writeups
 
 [A Guide to Assertion Macros in WebKit](https://github.com/sploitem/WebKitPwn/blob/main/files/A%20Guide%20to%20Assertion%20Macros%20in%20WebKit%20_%20WebKit.pdf)
 
