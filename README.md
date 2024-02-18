@@ -31,9 +31,7 @@
 
 [Exploiting CSP in Webkit to Break Authentication & Authorization](https://github.com/sploitem/WebKitPwn/blob/main/files/Exploiting%20CSP%20in%20Webkit%20to%20Break%20Authentication%20%26%20Authorization.pdf)
 
-
-
-[]()
+[Exploiting WebKit JSPropertyNameEnumerator Out-of-Bounds Read (CVE-2021-1789)](https://github.com/sploitem/WebKitPwn/blob/main/files/Exploiting%20WebKit%20JSPropertyNameEnumerator%20Out-of-Bounds%20Read%20(CVE-2021-1789).pdf)
 
 []()
 
